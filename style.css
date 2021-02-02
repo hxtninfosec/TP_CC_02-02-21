@@ -1,0 +1,27 @@
+header {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background-color: blue;
+}
+
+h2 {
+	color: red;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: yellow;
+}
+
+.squarre {
+    height: 70px;
+    width: 70px;
+	background: red;
+	margin: auto;
+	margin-top: 400px;
+}
